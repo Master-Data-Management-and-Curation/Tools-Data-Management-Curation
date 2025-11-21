@@ -1,0 +1,40 @@
+{
+  "used_files": [
+    "raw_data/108_Ag/800K_SAED.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-25k.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-500k.dm3",
+    "raw_data/B8-AgI_pH_7/B8-01-120k.dm3",
+    "raw_data/B8-AgI_pH_7/B8-01-600k.dm3",
+    "raw_data/108_Ag/800K.dm3",
+    "raw_data/B8-AgI_pH_7/B8-01-800k-FFT.dm3",
+    "raw_data/108_Ag/10K.dm3",
+    "raw_data/108_Ag/50K.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-600k.dm3",
+    "raw_data/108_Ag/600K.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-500k_SAED.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-500k_FFT.dm3",
+    "raw_data/B8-AgI_pH_7/B8-01-500k.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-600k_FFT.dm3",
+    "raw_data/A10-Mn_pH_7/A10-01-800k.dm3"
+  ],
+  "project1": {
+    "used_ids": [
+      780
+    ]
+  },
+  "project2": {
+    "used_ids": [
+      142
+    ]
+  },
+  "project3": {
+    "used_ids": [
+      143
+    ]
+  },
+  "project4": {
+    "used_ids": [
+      136
+    ]
+  }
+}

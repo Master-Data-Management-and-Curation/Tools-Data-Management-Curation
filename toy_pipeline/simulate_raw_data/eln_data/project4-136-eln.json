@@ -1,0 +1,37 @@
+{
+  "project4-136": "e",
+  "sample": [
+    {
+      "108_Ag": {
+        "file_name": "800K_SAED.dm3",
+        "description": "I don't know",
+        "index": "800",
+        "additional": "saed"
+      }
+    },
+    {
+      "A10-Mn_pH_7": {
+        "file_name": "A10-01-25k.dm3",
+        "description": "I don't know",
+        "index": "25",
+        "additional": ""
+      }
+    },
+    {
+      "A10-Mn_pH_7": {
+        "file_name": "A10-01-500k.dm3",
+        "description": "I don't know",
+        "index": "500",
+        "additional": ""
+      }
+    },
+    {
+      "B8-AgI_pH_7": {
+        "file_name": "B8-01-120k.dm3",
+        "description": "I don't know",
+        "index": "120",
+        "additional": ""
+      }
+    }
+  ]
+}
